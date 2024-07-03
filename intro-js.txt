@@ -1,0 +1,71 @@
+java script is a scripting programming language and for web interactivity.
+web interactivity means some kind of action.
+
+programming language---1. object oriented programming language 
+                       2. functional procedure oriented programming language 
+                       3. scripting programming language
+
+java script is a loosely typed programming language and not strictly typed and dynamic typed programming language and lite weight programming language.
+for example:- 
+      java             \\          javascript
+ int eid=101;                     var eid=101
+double esal=45000.00;            var esal=45000.00
+string ename="rahul"             var ename="rahul";
+[;]mandatory for java            [;] not mandatory for java script.
+to declare one variable{eid=101;} type{int,var,double} is important. 
+=============================================================================================================================== 
+java script is a dynamic typed:-
+for example:-
+in java eid="soniya"; it will comes compile time error because java is a static typed programming language. 
+in js eid="soniya"; its going to work in java script because it is dynamic typed programming language any time we can change the type.
+================================================================================================================================
+java script is a lite weight typed:-
+for example:-
+one.py         // one.java                    // one.js
+a=19              class test{                    var a=10
+b=11              p s v m (...)                  var b=20
+print(a+b)        int a=10;                      console.log(a+b)
+                  int b=10;
+                  system.output.println(a+b)
+                  }
+**for execute python file we required python software.
+**for execute java file we required java software to installed the java s/w we get JDK JRE.
+**for execute java script we not required software we required only browser ,browser is enough to execute your javascript file...
+=======================================================================================================================================
+windows- default browser is edge browser..
+linux- default browser is mozilla firefox..
+mac- default browser is safari..
+
+every browser internally there is one java script engine 
+every browser understand html and runs the java script code because every browser having internally one java script is there...
+engine names:-
+for chrome = V8 engine.
+for mozilla firefox = spider monkey
+for edge = Chakra
+for safari = javascript core...
+================================================================================================================================
+java script is based on interpreter :-
+
+there are twotypes compiler programming language and interpreter programming language...
+compiler Pl:-  // interpreter PL:-
+java              javascript
+typescript        python
+c++               
+
+it is just a one kind of software convert from high level code to low level binary code processor will understand only 0 and 1s
+compiler means compilazation,interpreter means execution ...both are doing same duty converting into high level to low level.
+
+compiler do :-
+first analyse the source code any syntax error is there its stop the compiler no output...
+interpreter do :-
+first executing the source code line by line whenever it is find the error it will stop the execution...
+
+advantages:-
+**easy to learn and implement.
+**
+disadvantages:-
+**security issues because every browser there is a javascript browser so 
+java script code is executing on client side (user computer)might chance of malware attack...
+**is it not going to wprk in every browser- browser compatiability issues will come...
+
+
